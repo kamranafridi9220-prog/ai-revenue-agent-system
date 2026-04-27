@@ -1,5 +1,6 @@
 streamlit
 pandas
 openpyxl
-crewai
 python-dotenv
+crewai==0.11.2
+langchain==0.1.20
