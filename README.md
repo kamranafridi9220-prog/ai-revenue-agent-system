@@ -57,6 +57,21 @@ The system simulates 3 AI Agents working together:
 
 ---
 
+## 🌐 Live Demo Experience
+
+Try the live system here:
+
+🔗 https://ai-revenue-agent-system-i4gkbjtu8gpvbb5lexzzdq.streamlit.app/
+
+You can:
+- Use the built-in sample dataset  
+- Select different companies  
+- Generate real-time AI-driven insights  
+
+No setup required.
+
+---
+
 ## 📊 Example Use Case
 
 Input:
@@ -81,6 +96,9 @@ Most businesses rely on:
 This project shows a shift towards:
 
 AI as a decision engine, not just a reporting tool.
+
+This reflects the shift from passive analytics to active decision intelligence —  
+where systems not only present data, but recommend actions.
 
 ---
 
@@ -107,6 +125,8 @@ AI as a decision engine, not just a reporting tool.
 ### Download Report Feature
 ![Download Report](download-report.png)
 
+---
+
 ## 🚀 How to Run Locally
 
 git clone https://github.com/kamranafridi9220-prog/ai-revenue-agent-system.git  
@@ -114,9 +134,17 @@ cd ai-revenue-agent-system
 pip install -r requirements.txt  
 streamlit run app.py  
 
-Create a `.env` file:
+---
+
+## 🔐 API Configuration
+
+This project requires an OpenAI API key.
+
+Create a `.env` file in the root directory and add:
 
 OPENAI_API_KEY=your_api_key_here
+
+Without this, the AI agents will not run.
 
 ---
 
@@ -151,6 +179,17 @@ Sales teams, SMEs, consulting firms, and growth-focused organisations.
 
 ---
 
+## ⚠️ Limitations
+
+- Outputs depend on input data quality  
+- AI responses may vary due to probabilistic nature  
+- Not connected to real CRM systems (simulation environment)  
+- Requires API key for full functionality  
+
+This project is designed as a decision-support prototype.
+
+---
+
 ## 🔮 Future Improvements
 
 - CRM integrations (HubSpot / Salesforce)
@@ -158,6 +197,15 @@ Sales teams, SMEs, consulting firms, and growth-focused organisations.
 - Multi-agent orchestration (CrewAI version)
 - API deployment for business use
 - Automated outreach sending
+
+---
+
+## 📌 Current Status
+
+Version: v1.0  
+Status: Live and functional  
+
+Actively being improved with additional AI capabilities and integrations.
 
 ---
 
@@ -177,7 +225,7 @@ It demonstrates practical application of:
 ## 👤 Author
 
 Kamran Afridi  
-Business Intelligence & AI Enthusiast  
+Business Intelligence | AI Decision Systems | Sales Analytics  
 London, UK
 
 ---
