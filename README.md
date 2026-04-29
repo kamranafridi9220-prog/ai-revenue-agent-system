@@ -94,10 +94,17 @@ AI as a decision engine, not just a reporting tool.
 
 ## 📸 Screenshots
 
-### App Interface
-![App Screenshot](Streamlit%20app%20image.png)
+### Dashboard and Dataset Preview
+![Dashboard](dashboard.png)
 
----
+### Selected Lead
+![Selected Lead](selected-lead.png)
+
+### AI Analysis Output
+![Analysis Output](analysis-output.png)
+
+### Download Report Feature
+![Download Report](download-report.png)
 
 ## 🚀 How to Run Locally
 
