@@ -7,16 +7,17 @@ https://ai-revenue-agent-system-i4gkbjtu8gpvbb5lexzzdq.streamlit.app/
 
 ---
 
-## 💡 Overview
+## 🎯 What This System Does
 
-This project demonstrates how AI can move beyond dashboards and into actionable business decision-making.
+This system simulates a real-world B2B sales workflow using AI agents.
 
-Instead of just visualising data, this system:
-- Analyses a business lead
-- Builds a tailored sales strategy
-- Generates a ready-to-send outreach message
+Instead of static dashboards, it enables:
 
-All in seconds.
+- Intelligent lead qualification  
+- Automated sales strategy generation  
+- Context-aware outreach messaging  
+
+It transforms raw data into *decision-ready actions*.
 
 ---
 
@@ -116,6 +117,37 @@ streamlit run app.py
 Create a `.env` file:
 
 OPENAI_API_KEY=your_api_key_here
+
+---
+
+## 🧠 System Architecture
+
+The system uses a multi-agent approach:
+
+1. Lead Analyst Agent  
+   → Evaluates lead quality, pain points, and buying signals  
+
+2. Sales Strategist Agent  
+   → Builds a tailored go-to-market approach  
+
+3. Outreach Agent  
+   → Generates human-like B2B messaging  
+
+Each agent builds on the previous output, simulating real decision workflows.
+
+---
+
+## 💼 Business Impact
+
+This system demonstrates how AI can:
+
+- Reduce manual lead qualification effort  
+- Improve sales targeting and conversion rates  
+- Enable scalable, data-driven decision-making  
+- Replace fragmented workflows with unified intelligence  
+
+Applicable across:
+Sales teams, SMEs, consulting firms, and growth-focused organisations.
 
 ---
 
