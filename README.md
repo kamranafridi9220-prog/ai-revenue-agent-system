@@ -224,7 +224,7 @@ It demonstrates practical application of:
 
 ## 👤 Author
 
-Kamran Afridi  
+Kamran Khan  
 Business Intelligence | AI Decision Systems | Sales Analytics  
 London, UK
 
