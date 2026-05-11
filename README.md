@@ -7,6 +7,16 @@ https://ai-revenue-agent-system-i4gkbjtu8gpvbb5lexzzdq.streamlit.app/
 
 ---
 
+## 🔎 Project Positioning
+
+This project is designed as an AI-powered decision system for B2B sales workflows.
+
+Rather than functioning as a static dashboard or generic chatbot, the platform simulates a multi-agent commercial workflow where AI agents analyse leads, generate sales strategies, and recommend next-best actions.
+
+The goal is to demonstrate how AI can support practical business decision-making across revenue and growth teams.
+
+---
+
 ## 🎯 What This System Does
 
 This system simulates a real-world B2B sales workflow using AI agents.
@@ -165,6 +175,14 @@ Each agent builds on the previous output, simulating real decision workflows.
 
 ---
 
+## 🧩 Workflow Architecture
+
+Dataset Upload → Lead Selection → Lead Analyst Agent → Sales Strategist Agent → Outreach Writer Agent → Downloadable Sales Report
+
+This workflow demonstrates a multi-step AI decision pipeline where each agent contributes specialised reasoning to the final business recommendation.
+
+---
+
 ## 💼 Business Impact
 
 This system demonstrates how AI can:
@@ -187,6 +205,20 @@ Sales teams, SMEs, consulting firms, and growth-focused organisations.
 - Requires API key for full functionality  
 
 This project is designed as a decision-support prototype.
+
+---
+
+## 🏗️ Production Roadmap
+
+Future enterprise-ready enhancements could include:
+
+- CRM integration with HubSpot and Salesforce
+- Persistent lead memory and interaction history
+- Real-time lead enrichment APIs
+- Vector search for similar lead matching
+- Multi-user collaboration features
+- API deployment for enterprise workflows
+- Autonomous follow-up orchestration
 
 ---
 
