@@ -4,9 +4,24 @@ An AI-powered decision system that simulates a real-world B2B sales workflow usi
 
 🔗 **Live Demo:**  
 https://ai-revenue-agent-system-i4gkbjtu8gpvbb5lexzzdq.streamlit.app/
-
 ---
+# Multi-Agent Architecture
 
+![Architecture](ai-revenue-agent-system-architecture.png)
+---
+# Business Impact
+
+This project demonstrates how multi-agent AI systems can support modern sales workflows through:
+
+- Lead qualification
+- AI-assisted sales strategy
+- Outreach generation
+- Revenue-focused recommendations
+- Workflow automation
+- Commercial decision-support systems
+
+The platform simulates how organisations can coordinate multiple AI agents to improve sales efficiency, automation, and strategic decision-making.
+---
 ## 🔎 Project Positioning
 
 This project is designed as an AI-powered decision system for B2B sales workflows.
